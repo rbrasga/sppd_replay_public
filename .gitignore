@@ -1,0 +1,16 @@
+
+*.pyc
+*.db
+*.txt
+api/
+access.log
+domain.cert.pem
+error.log
+private.key.pem
+run_env/*
+decktracker_database_backup.sql
+translate/
+*.png
+*.json
+*.csv
+*.sql

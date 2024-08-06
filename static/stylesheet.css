@@ -1,0 +1,3 @@
+img{margin-bottom:-5px;width: 100%;}
+@media (max-width: 900px){.collapse{display:none!important}}
+@media (max-width: 767px){.giveboxplease{display:block;width:100%!important}}
